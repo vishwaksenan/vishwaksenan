@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 Welcome to my Github profile. I am basically a geek who does software engineering during the free time. I also love to play badminton at the highest level (I am still trying xD).  
  ## I am a Machine Learning Engineer
  I was introduced into world of AI at 2018 and I was hooked up into it.
+  - 🏆 Participated in [Climate Hack Data Science Competition](https://climatehack.ai/compete/leaderboard) with a score or 0.68914 (Username: vishwaksenang). 
  - 🥅 My ultimate goal is to solve one of [UN Sustainability Development](https://sdgs.un.org/goals) goals via Machine Learning. 
  - 🔭 I’m currently working on to implementation of AnimeGAN. 
- - 📖 Postgrad at [University of Warwick in Data Analytics](https://warwick.ac.uk/study/postgraduate/courses/dataanalytics/) (2021 - 2022).  
- - 🏆 Participated in [Climate Hack Data Science Competition](https://climatehack.ai/compete/leaderboard) with a score or 0.68914 (Username: vishwaksenang).  
+ - 📖 Postgrad at [University of Warwick in Data Analytics](https://warwick.ac.uk/study/postgraduate/courses/dataanalytics/) (2021 - 2022).   
  - 💬 If you want to talk tech, I am your guy. 
 
 ## Skillset
