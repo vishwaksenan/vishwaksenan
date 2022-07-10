@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Welcome to my Github profile. I am basically a geek who does software engineering during the free time. I also love to play badminton at the highest level (I am still trying xD).  
+Welcome to my Github profile. I am basically a geek who does software engineering during the free time. I also love to play badminton at the highest level (I am still trying xD). I always abide by the quote 
+> **TALK IS CHEAP, SHOW ME THE CODE**.   
  ## I am a Machine Learning Engineer
  I was introduced into world of AI at 2018 and I was hooked up into it.
   - 🏆 Participated in [Climate Hack Data Science Competition](https://climatehack.ai/compete/leaderboard) with a score or 0.68914 (Username: vishwaksenang). 
